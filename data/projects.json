@@ -1,0 +1,17 @@
+[
+	{
+		"name": "ilovedogwalks",
+		"desc": "A freelance dog walking website for a small buisness in the UK. Made on top of a Node/Express server using bootstrap.",
+		"imagePath": "/img/projects/project01.png"
+	},
+	{
+		"name": "hackify",
+		"desc": "A music platform powered by the spotify API. Built with a Node/Express and deployed with Heroku.",
+		"imagePath": "/img/projects/project02.png"
+	},
+	{
+		"name": "Fightapp",
+		"desc": "Fightapp matches fighters from different gyms, taking into account many factors to create the closest and most even matches.",
+		"imagePath": "/img/projects/Project03.png"
+	}
+]

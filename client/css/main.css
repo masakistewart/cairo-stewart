@@ -1,0 +1,50 @@
+body {
+	font-size: 16px;
+}
+
+
+img.projectImage {
+	width: 100%;
+}
+
+#fourohfour {
+	height: 45em;
+	vertical-align: middle;
+}
+
+#fourohfour-center {
+	border-radius: 100%;
+	width: 30em;
+	height: 30em;
+	margin: auto auto;
+	box-shadow: 0px 0px 10px 10px #d3d3d3;
+}
+
+#fourohfour-center h1{
+	font-size: 6em;
+	margin-bottom: .4em;
+}
+
+#fourohfour-center a {
+	margin: 1em;
+}
+
+img.thinner{
+	width: 80%;
+}
+
+.icon {
+	color: white;
+}
+
+.icon:hover {
+	color: grey;
+}
+
+img.text-wrap {
+	width: 100%;
+}
+
+div.app-block-intro {
+	margin-bottom: 120px;
+}
